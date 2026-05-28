@@ -1,0 +1,49 @@
+HYPOTHESIS TEST RESULTS
+
+========================================
+1. T-TEST RESULTS
+========================================
+
+Null Hypothesis (H0):
+There is no significant difference in sales between East and North regions.
+
+Alternative Hypothesis (H1):
+There is a significant difference in sales between East and North regions.
+
+Result:
+P-value < 0.05 → SIGNIFICANT
+
+========================================
+2. ANOVA TEST RESULTS
+========================================
+
+Null Hypothesis (H0):
+All regional sales means are equal.
+
+Alternative Hypothesis (H1):
+At least one region has different average sales.
+
+Result:
+P-value < 0.05 → SIGNIFICANT
+
+========================================
+3. CORRELATION ANALYSIS
+========================================
+
+Strong positive correlation observed between Price and Total Sales.
+
+========================================
+4. REGRESSION ANALYSIS
+========================================
+
+Regression model successfully fitted.
+
+R² score indicates predictive relationship between variables.
+
+========================================
+FINAL CONCLUSION
+========================================
+
+Statistical analysis indicates that business metrics
+show meaningful relationships and statistically
+significant patterns useful for decision-making.
